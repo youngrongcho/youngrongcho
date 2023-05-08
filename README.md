@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=120&section=header&text=Welcome%20to%20Ronglong's%20Github!&fontSize=40"/>
 
 <p align="left">
-  <a href="https://velog.io/@youngrong"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
+  <a href="https://velog.io/@youngrong"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp 
