@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=120&section=header&text=Welcome%20to%20Ronglong's%20Github!&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeAuto&height=90&section=header&text=Welcome%20to%20Ronglong's%20Github!&fontSize=40"/>
 
 <h3 align="center">🌽 Record 🌽</h3>
 <p align="center">
